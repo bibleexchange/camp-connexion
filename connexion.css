@@ -1,0 +1,211 @@
+body {
+  font-size: 62.5%;
+  background-color: #F0ECDF;
+  background: url(/img/paper-texture-lines.png);
+  /* This pattern is downloaded from www.subtlepatterns.com If you need more, that's where to get'em.*/ }
+
+p {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  text-align: center; }
+
+h2 {
+  font-family: "Josefin Slab", serif;
+  font-size: 4rem;
+  font-weight: 700;
+  color: #406026;
+  text-align: center; }
+
+h3 {
+  font-family: "Josefin Slab", serif;
+  font-size: 2.8rem;
+  font-weight: 300;
+  color: #7f7f7f;
+  text-align: center; }
+
+h4 {
+  font-family: "Josefin Slab", serif;
+  font-weight: 700;
+  font-size: 2rem;
+  color: #D66035;
+  text-align: center; }
+
+a {
+  color: #335583;
+  fill: #335583; }
+
+a:hover {
+  fill: #4C73A6;
+  color: #4C73A6;
+  transition: fill 0.2s ease-in; }
+
+table, input {
+  display: block;
+  margin: 1rem auto 1rem auto; }
+
+td {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: .7rem; }
+
+footer {
+  background-color: rgba(28, 16, 7, 0.5);
+  color: rgba(255, 255, 255, 0.5);
+  margin: 2rem -15px -15px -15px;
+  padding: .5rem; }
+  footer a {
+    color: rgba(255, 255, 255, 0.5);
+    text-decoration: underline; }
+  footer a:hover {
+    color: #fff; }
+  footer a:visited {
+    color: rgba(255, 255, 255, 0.5);
+    text-decoration: underline; }
+
+/*style custom element*/
+#ne {
+  fill: rgba(101, 151, 60, 0.4);
+  display: block;
+  margin-top: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%; }
+
+.map:before {
+  display: none; }
+
+.content-box {
+  background-color: rgba(245, 245, 245, 0.8);
+  padding: 1.5rem;
+  margin: 4rem -15px 0 -15px; }
+
+.logo {
+  width: 70%; }
+
+.call-to-action {
+  display: block;
+  border-radius: 12px;
+  border: solid 5px #4C73A6;
+  background-color: #335583;
+  color: #fff;
+  font-weight: 700;
+  margin: 1rem auto 1rem auto;
+  padding: 1rem;
+  width: 80%; }
+
+a:hover.call-to-action {
+  color: fff;
+  text-decoration: none;
+  border: solid 5px #335583;
+  background-color: #4C73A6;
+  transition: background 0.2s ease-in; }
+
+.avatar {
+  max-width: 65%; }
+
+.social-icon {
+  width: 100%; }
+
+.google-doc {
+  width: 100%;
+  height: 600px;
+  margin-bottom: .8rem; }
+
+#be-logo {
+  margin-top: .7rem;
+  margin-bottom: .7rem;
+  width: 10%; }
+
+/*Add parallax effect*/
+.parallax-layer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0; }
+
+@media screen and (min-width: 768px) {
+  body {
+    background: url(/img/paper-texture.png);
+    /* This pattern is downloaded from www.subtlepatterns.com If you need more, that's where to get'em.*/ }
+
+  footer {
+    margin: 2rem;
+    border-radius: 10px; }
+    footer p {
+      margin: 0; }
+
+  .map {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 3400px; }
+
+  .map:before {
+    display: inherit;
+    width: 400%;
+    height: 400%;
+    top: -150%;
+    left: -150%;
+    content: "";
+    position: absolute;
+    z-index: -1;
+    background: url(svg/map-lines.svg) 0 0 repeat;
+    -webkit-transform: rotate(30deg);
+    -moz-transform: rotate(30deg);
+    -ms-transform: rotate(30deg);
+    -o-transform: rotate(30deg);
+    transform: rotate(30deg); }
+
+  .content-box {
+    margin: 4rem 0 0 0; }
+
+  .google-doc {
+    width: 90%;
+    margin: .8rem 5% .8rem 5%; }
+
+  #be-logo {
+    width: 6%; }
+
+  /*Disable parralax on mobile*/
+  .parallax {
+    perspective: 1px;
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+    -webkit-perspective: 300px;
+    perspective: 300px; }
+
+  .parallax-group {
+    -webkit-transition: -webkit-transform 0.5s;
+    transition: transform 0.5s; }
+
+  .parallax-layer-base {
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    z-index: 3; }
+
+  .parallax-layer-back {
+    -webkit-transform: translateZ(-300px) scale(2);
+    transform: translateZ(-300px) scale(2);
+    z-index: 2; }
+
+  .parallax-layer-deep {
+    -webkit-transform: translateZ(-600px) scale(3);
+    transform: translateZ(-600px) scale(3);
+    z-index: 1; } }
+@media screen and (min-width: 1200px) {
+  #ne {
+    width: 80%; }
+
+  .map {
+    height: 2750px; }
+
+  .map:before {
+    width: 300%;
+    height: 400%; }
+
+  #be-logo {
+    width: 4%; } }

@@ -1,0 +1,4 @@
+RewriteEngine on
+DirectoryIndex index.php index.html
+RewriteCond %{REQUEST_URI} /index.php$ 
+RewriteRule $ / [R=302,L]
