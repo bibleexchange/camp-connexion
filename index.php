@@ -42,7 +42,7 @@
 							<div class="col-md-8 col-md-offset-2">
 								<div class="content-box">
 									<h2>Description</h2>
-									<p>Camp Connexion is a five day summer camp in New England for families and youth. Biblical preaching and teaching encourage attendees to develop personal relationships with God, while fun and engaging activities spark lasting connections with others. The 2015 camp was held in Charleston, Maine.</p>
+									<p>Camp Connexion is a five day summer camp in New England for families and youth. Biblical preaching and teaching encourage attendees to develop personal relationships with God, while fun and engaging activities spark lasting connections with others. The 2016 camp will be held in Charleston, Maine.</p>
 									<h2>Vision</h2>
 									<p>Connect with Jesus. Connect with others.</p>
 									<h2>Mission</h2>
