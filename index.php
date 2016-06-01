@@ -31,7 +31,7 @@
 							<div class="col-md-8 col-md-offset-2">
 								<div class="content-box">
 									<h2>August 1-5, 2016</h2>
-									<h3><a class="call-to-action" href="/appy">Apply today!</a></h3>
+									<h3><a class="call-to-action" href="/apply">Apply today!</a></h3>
 									<h3>Registration ends July 27.</h3>
 									<p>You must be between the ages of 10 and 20 years old to apply as a camper. Workers must be at least 21.</p>
 									<p>Early-bird pricing for each camper is $65 until July 15th, and after that the price is $75. There is no fee for workers themselves to come to the camp, although some may apply if you want a camp T-shirt or are going to bring younger children with you.</p>

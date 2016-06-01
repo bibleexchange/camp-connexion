@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="2600" height="1200" viewBox="0, 0, 2600, 1200">
-  <g id="compass_letters">
-    <text transform="matrix(0.721, -0.693, 0.693, 0.721, 1287.424, 267.032)">
-      <tspan x="-119.7" y="97.316" font-family="JosefinSlab-Bold" font-size="280" fill="#F4F3F3">N</tspan>
-    </text>
-    <text transform="matrix(0.693, 0.721, -0.721, 0.693, 1957.039, 267.032)">
-      <tspan x="-79.94" y="94.224" font-family="JosefinSlab-Bold" font-size="280" fill="#F4F3F3">E</tspan>
-    </text>
-    <text transform="matrix(-0.721, 0.693, -0.693, -0.721, 1955.039, 937.474)">
-      <tspan x="-66.92" y="91.661" font-family="JosefinSlab-Bold" font-size="280" fill="#F4F3F3">S</tspan>
-    </text>
-    <text transform="matrix(-0.693, -0.721, 0.721, -0.693, 1285.424, 930.474)">
-      <tspan x="-164.92" y="94.863" font-family="JosefinSlab-Bold" font-size="280" fill="#F4F3F3">W</tspan>
-    </text>
-  </g>
   <g id="point">
     <path d="M1380.287,700.1 C1419.291,795.21 1512.806,862.199 1621.967,862.199 C1731.561,862.199 1825.385,794.677 1864.108,698.965" fill-opacity="0" stroke="#6A6868" stroke-width="12"/>
     <path d="M1384.234,493.657 C1425.31,403.325 1516.341,340.516 1622.042,340.516 C1724.281,340.516 1812.795,399.278 1855.654,484.871 C1855.654,484.871 1855.654,484.871 1855.654,484.871" fill-opacity="0" stroke="#6A6868" stroke-width="12"/>
