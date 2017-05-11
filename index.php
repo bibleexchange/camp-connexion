@@ -30,11 +30,11 @@
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2">
 								<div class="content-box">
-									<h2>August 1-5, 2016</h2>
+									<h2>July 31&ndash;August 4, 2017</h2>
 									<h3><a class="call-to-action" href="/apply">Apply today!</a></h3>
-									<h3>Registration ends July 27.</h3>
+									<h3>Registration ends July 26.</h3>
 									<p>You must be between the ages of 10 and 20 years old to apply as a camper. Workers must be at least 21.</p>
-									<p>Early-bird pricing for each camper is $65 until July 15th, and after that the price is $75. There is no fee for workers themselves to come to the camp, although some may apply if you want a camp T-shirt or are going to bring younger children with you.</p>
+									<p>Pre-Register by June 30 and pay $75 for each camper. Early-bird pricing for each camper is $85 until July 15th, and after that the price is $95. There is no fee for workers themselves to come to the camp, although some may apply if you want a camp T-shirt or are going to bring younger children with you.</p>
 								</div>
 							</div>
 						</div>
@@ -142,7 +142,6 @@
 							</div>
 						</div>
 						<div class="row">
-							<div class="row">
 								<!--<div class="col-md-8 col-md-offset-2">
 									<div class="content-box">
 										<h2>Schedule</h2>
@@ -151,51 +150,6 @@
 										<h3><a class="call-to-action" href="https://www.google.com/calendar/ical/odmrt0qgfv21njtibbmp2ud814%40group.calendar.google.com/public/basic.ics">Add to your calendar.</a></h3>
 									</div>
 								</div>-->
-								<div class="col-md-8 col-md-offset-2">
-									<div class="content-box">
-										<h2>2015 Pictures</h2>
-										<center>
-											<div id="fb-root"></div>
-											<script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
-											<div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.713764655422178.1073741831.670233566441954&amp;type=3" data-width="500">
-												<div class="fb-xfbml-parse-ignore">
-													<blockquote cite="https://www.facebook.com/media/set/?set=a.713764655422178.1073741831.670233566441954&amp;type=3">Posted by <a href="https://www.facebook.com/connexioncamp">Camp Connexion</a> on&nbsp;<a href="https://www.facebook.com/media/set/?set=a.713764655422178.1073741831.670233566441954&amp;type=3">Monday, August 10, 2015</a></blockquote>
-												</div>
-											</div>
-										</center>
-										<center>
-											<div id="fb-root"></div>
-											<script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
-											<div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.713743462090964.1073741830.670233566441954&amp;type=3" data-width="100%">
-												<div class="fb-xfbml-parse-ignore">
-													<blockquote cite="https://www.facebook.com/media/set/?set=a.713743462090964.1073741830.670233566441954&amp;type=3">
-														<p>Every morning before chapel we held a spirit rally to see whether the Reds or Blues had more team spirit.</p>
-														Posted by <a href="https://www.facebook.com/connexioncamp">Camp Connexion</a> on&nbsp;<a href="https://www.facebook.com/media/set/?set=a.713743462090964.1073741830.670233566441954&amp;type=3">Monday, August 10, 2015</a>
-													</blockquote>
-												</div>
-											</div>
-										</center>
-										<center>
-											<div id="fb-root"></div>
-											<script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
-											<div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.714658221999488.1073741832.670233566441954&amp;type=3" data-width="500">
-												<div class="fb-xfbml-parse-ignore">
-													<blockquote cite="https://www.facebook.com/media/set/?set=a.714658221999488.1073741832.670233566441954&amp;type=3">Posted by <a href="https://www.facebook.com/connexioncamp">Camp Connexion</a> on&nbsp;<a href="https://www.facebook.com/media/set/?set=a.714658221999488.1073741832.670233566441954&amp;type=3">Wednesday, August 12, 2015</a></blockquote>
-												</div>
-											</div>
-										</center>
-										<center>
-											<div id="fb-root"></div>
-											<script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
-											<div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.714671461998164.1073741833.670233566441954&amp;type=3" data-width="500">
-												<div class="fb-xfbml-parse-ignore">
-													<blockquote cite="https://www.facebook.com/media/set/?set=a.714671461998164.1073741833.670233566441954&amp;type=3">Posted by <a href="https://www.facebook.com/connexioncamp">Camp Connexion</a> on&nbsp;<a href="https://www.facebook.com/media/set/?set=a.714671461998164.1073741833.670233566441954&amp;type=3">Wednesday, August 12, 2015</a></blockquote>
-												</div>
-											</div>
-										</center>
-									</div>
-								</div>
-							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-4 col-md-offset-2">
