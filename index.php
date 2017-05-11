@@ -34,7 +34,7 @@
 									<h3><a class="call-to-action" href="/apply">Apply today!</a></h3>
 									<h3>Registration ends July 26.</h3>
 									<p>You must be between the ages of 10 and 20 years old to apply as a camper. Workers must be at least 21.</p>
-									<p>Pre-Register by June 30 and pay $75 for each camper. Early-bird pricing for each camper is $85 until July 15th, and after that the price is $95. There is no fee for workers themselves to come to the camp, although some may apply if you want a camp T-shirt or are going to bring younger children with you.</p>
+									<p>Pre-Register by June 30 and pay $75 for each camper. Early-bird pricing for each camper is $85 until July 15th, and after that the price is $95. The price of a camp T-Shirt is included with camper registration this year. There is no fee for workers themselves to come to the camp, although some may apply if you want a camp T-shirt or are going to bring younger children with you.</p>
 								</div>
 							</div>
 						</div>
