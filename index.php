@@ -34,7 +34,7 @@
 									<h3><a class="call-to-action" href="/apply">Apply today!</a></h3>
 									<h3>Registration ends July 26.</h3>
 									<p>You must be between the ages of 10 and 20 years old to apply as a camper. Workers must be at least 21.</p>
-									<p>Pre-Register by June 30 and pay $75 for each camper. Early-bird pricing for each camper is $85 until July 15th, and after that the price is $95. The price of a camp T-Shirt is included with camper registration this year. There is no fee for workers themselves to come to the camp, although some may apply if you want a camp T-shirt or are going to bring younger children with you.</p>
+									<p>the camper fee is $100. The price of a camp T-Shirt and $10 toward concession stand is included with camper registration this year. There is no fee for workers themselves to come to the camp, although some may apply if you want a camp T-shirt or are going to bring younger children with you.</p>
 								</div>
 							</div>
 						</div>
@@ -196,8 +196,8 @@
 							<div class="col-md-4">
 								<div class="content-box">
 									<h2>Directions</h2>
-									<p>Hosted at Faith Bible College International campus.</p>
-									<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1454747.3693402824!2d-69.38586913579661!3d44.590818455638306!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0xe265dd78266fd039!2sFaith+School+of+Theology!5e0!3m2!1sen!2sus!4v1431713625555" width="100%" height="450" frameborder="0" style="border:0"></iframe>
+									<p>Hosted at Fair Haven Camps.</p>
+									<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2844.8263921500625!2d-69.13453378498859!3d44.51870927910119!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cae1494fd47266f%3A0xe3fddfb150bd4d9a!2sFair+Haven+Camps!5e0!3m2!1sen!2sus!4v1496724855043" width="100%" height="450" frameborder="0" style="border:0"></iframe>
 								</div>
 								</div>
 						</div>
