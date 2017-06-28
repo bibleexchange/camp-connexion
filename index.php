@@ -166,7 +166,7 @@
 							<div class="col-md-4">
 								<div class="content-box">
 									<h2>Help the cause</h2>
-									<a class="call-to-action" href="https://connexion.camp/apply/donate/">Donate</a>
+									<h3><a class="call-to-action" href="https://connexion.camp/apply/donate/">Donate</a></h3>
 								</div>
 							</div>
 						</div>
