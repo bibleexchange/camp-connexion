@@ -34,7 +34,7 @@
 									<h3><a class="call-to-action" href="/apply">Apply today!</a></h3>
 									<h3>Registration ends July 26.</h3>
 									<p>You must be between the ages of 10 and 20 years old to apply as a camper. Workers must be at least 21.</p>
-									<p>the camper fee is $100. The price of a camp T-Shirt and $10 toward concession stand is included with camper registration this year. There is no fee for workers themselves to come to the camp, although some may apply if you want a camp T-shirt or are going to bring younger children with you.</p>
+									<p>The camper fee is $100. The price of a camp T-Shirt and $10 toward concession stand is included with camper registration this year. There is no fee for workers themselves to come to the camp, although some may apply if you want a camp T-shirt or are going to bring younger children with you.</p>
 								</div>
 							</div>
 						</div>
