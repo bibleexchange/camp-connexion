@@ -110,7 +110,7 @@
 											<h4>Head Girls Cabin Counselor</h4>
 										</div>
 										<div class="col-md-4">
-											<img class="img-responsive img-circle center-block avatar" src="img/amanda-reynolds.jpg">
+											<img class="img-responsive img-circle center-block avatar" src="img/courtney-gilkinson.jpg">
 											<h3>Courtney Gilkinson</h3>
 											<h4>Activities Director</h4>
 											<p>Courtney graduated from Free Gospel Bible Institute and has been actively involved in youth ministry. She enjoys working with and praying with the youth of today who will be the leaders of tomorrow.</p>
