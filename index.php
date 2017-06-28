@@ -42,7 +42,7 @@
 							<div class="col-md-8 col-md-offset-2">
 								<div class="content-box">
 									<h2>Description</h2>
-									<p>Camp Connexion is a five day summer camp in New England for families and youth. Biblical preaching and teaching encourage attendees to develop personal relationships with God, while fun and engaging activities spark lasting connections with others. The 2016 camp will be held in Charleston, Maine.</p>
+									<p>Camp Connexion is a five day summer camp in New England for families and youth. Biblical preaching and teaching encourage attendees to develop personal relationships with God, while fun and engaging activities spark lasting connections with others. The 2017 camp will be held in Brooks, Maine.</p>
 									<h2>Vision</h2>
 									<p>Connect with Jesus. Connect with others.</p>
 									<h2>Mission</h2>
@@ -68,7 +68,7 @@
 											<h3>Rev. Matthew Shaw</h3>
 											<h4>Co-Founder</h4>
 											<p>
-												Limitations are no obstacle for Rev. Shaw.<!--Over 16 years ago when he took over Brooks Pentecostal Church it had just a congregation of just four people. Now through his leadership it has grown to a congregation of 100 with an active youth group and a private Christian school.--> He has great expectations for what God can do with Camp Connexion.
+												Limitations are no obstacle for Rev. Shaw.<!--Over 16 years ago when he took over Brooks Pentecostal Church it had just a congregation of just four people. Now through his leadership it has grown to a congregation of 100 with an active youth group and a private Christian school.--> He has great expectations for what God can do with Camp Connexion this year.
 											</p>
 										</div>
 										<div class="col-md-4">
@@ -83,7 +83,7 @@
 											<img class="img-responsive img-circle center-block avatar" src="img/matthew-baker.jpg">
 											<h3>Rev. Matthew Baker</h3>
 											<h4>Co-Director</h4>
-											<p>Everyone and everything matters to Rev. Baker—no person or detail is insignificant in his eyes. He has shown in over 6 years working in youth ministry and 2 years as an assistant pastor that he can create an experience where all the parts and people come together to glorify God.</p>
+											<p>Everyone and everything matters to Rev. Baker—no person or detail is insignificant in his eyes. He has shown in over 6 years working in youth ministry and 4 years as an associate pastor that he can create an experience where all the parts and people come together to glorify God.</p>
 										</div>
 										<div class="col-md-4">
 											<img class="img-responsive img-circle center-block avatar" src="img/rachel-baker.jpg">
@@ -102,13 +102,18 @@
 										<div class="col-md-4">
 											<img class="img-responsive img-circle center-block avatar" src="img/aaron-reynolds.jpg">
 											<h3>Aaron Reynolds</h3>
-											<h4>Activity Director</h4>
-											<p>Organizing activities for youth is nothing new for Aaron. He has passionately lead a youth group and has a great desire for kids to live for Christ unashamedly in all aspects of their lives—even in games and sports.</p>
+											<h4>Head Boys Cabin Counselor</h4>
 										</div>
 										<div class="col-md-4">
 											<img class="img-responsive img-circle center-block avatar" src="img/amanda-reynolds.jpg">
 											<h3>Amanda Reynolds</h3>
-											<h4>Maintenance Director</h4>
+											<h4>Head Girls Cabin Counselor</h4>
+										</div>
+										<div class="col-md-4">
+											<img class="img-responsive img-circle center-block avatar" src="img/amanda-reynolds.jpg">
+											<h3>Courtney Gilkinson</h3>
+											<h4>Activities Director</h4>
+											<p>Courtney graduated from Free Gospel Bible Institute and has been actively involved in youth ministry. She enjoys working with and praying with the youth of today who will be the leaders of tomorrow.</p>
 										</div>
 									</div>
 								</div>
